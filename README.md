@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abukhair
-- 👀 I’m interested in Web/Mobile App development & Data Analyst
+- 👋 Hi, I’m Umar Faruk Abdulhamid
+- 👀 I’m interested in Web development & Data Analyst
 - 🌱 I’m currently learning Mobile App development with Flutter
 - 💞️ I’m looking to collaborate on Web/Mobile App development
 - 📫 How to reach me talk2ufaz@gmail.com
