@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Umar Faruk Abdulhamid
 - 👀 I’m interested in Web development & Data Science
-- 🌱 I’m currently learning Mobile App development with Flutter
-- 💞️ I’m looking to collaborate on Web/Mobile App development
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me talk2ufaz@gmail.com
 
 <!---
